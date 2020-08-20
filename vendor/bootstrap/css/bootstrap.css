@@ -5272,9 +5272,6 @@ a.badge-dark:focus, a.badge-dark.focus {
   margin-bottom: 2rem;
   background-color: #e9ecef;
   border-radius: 0.3rem;
-  background-image: url("../IMG_8881.JPG");
-  background-size: cover;
-  background-position: center 100%;
 }
 
 @media (min-width: 576px) {
