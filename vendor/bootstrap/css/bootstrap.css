@@ -202,12 +202,6 @@ svg {
   vertical-align: middle;
 }
 
-.jumbotron {
-  background-image: url("https://github.com/sako-na/myself/blob/master/IMG_8881.JPG");
-  background-size: cover;
-  background-position: center 60%;
-}
-
 table {
   border-collapse: collapse;
 }
@@ -5278,6 +5272,9 @@ a.badge-dark:focus, a.badge-dark.focus {
   margin-bottom: 2rem;
   background-color: #e9ecef;
   border-radius: 0.3rem;
+  background-image: url("IMG_8881.JPG");
+  background-size: cover;
+  background-position: center 60%;
 }
 
 @media (min-width: 576px) {
